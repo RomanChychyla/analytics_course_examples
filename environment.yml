@@ -1,4 +1,4 @@
-name:analytics_course_examples
+name: analytics_course_examples
 
 dependencies:
   - python=3.8
